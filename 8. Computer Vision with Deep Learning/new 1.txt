@@ -1,0 +1,17 @@
+sudo yum install git
+y
+git clone https://github.com/plephu/Final_exam_Face_Recognition.git
+ls
+cd Final_exam_Face_Recognition 
+sudo yum install python3-pip
+pip install -r requirements.txt --no-cache-dir
+sudo yum install gcc
+sudo yum install gcc-c++
+sudo yum install python3-devel
+sudo yum install tmux
+
+
+
+Running on local URL:  http://0.0.0.0:7860
+Running on public URL: https://4c30a14f73a462332d.gradio.live
+
