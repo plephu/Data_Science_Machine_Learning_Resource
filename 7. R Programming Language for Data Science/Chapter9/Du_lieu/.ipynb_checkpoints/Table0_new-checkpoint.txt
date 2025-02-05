@@ -1,0 +1,8 @@
+"V1"/t"V2"/t"V3"/t"V4"/t"V5"
+"1"/t"Alex"/t25/t177/t57/t"F"
+"2"/t"Lilly"/t31/t163/t69/t"F"
+"3"/t"Mark"/t23/t190/t83/t"M"
+"4"/t"Oliver"/t52/t179/t75/t"M"
+"5"/t"Martha"/t76/t163/t70/t"F"
+"6"/t"Lucas"/t49/t183/t83/t"M"
+"7"/t"Caroline"/t26/t164/t53/t"F"
